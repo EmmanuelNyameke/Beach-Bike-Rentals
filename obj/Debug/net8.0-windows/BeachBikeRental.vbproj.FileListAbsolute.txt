@@ -1,0 +1,17 @@
+C:\Users\HELLO\Source\Repos\BeachBikeRental\bin\Debug\net8.0-windows\BeachBikeRental.exe
+C:\Users\HELLO\Source\Repos\BeachBikeRental\bin\Debug\net8.0-windows\BeachBikeRental.deps.json
+C:\Users\HELLO\Source\Repos\BeachBikeRental\bin\Debug\net8.0-windows\BeachBikeRental.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\BeachBikeRental\bin\Debug\net8.0-windows\BeachBikeRental.dll
+C:\Users\HELLO\Source\Repos\BeachBikeRental\bin\Debug\net8.0-windows\BeachBikeRental.pdb
+C:\Users\HELLO\Source\Repos\BeachBikeRental\obj\Debug\net8.0-windows\BeachBikeRental.frmBike.resources
+C:\Users\HELLO\Source\Repos\BeachBikeRental\obj\Debug\net8.0-windows\BeachBikeRental.Resources.resources
+C:\Users\HELLO\Source\Repos\BeachBikeRental\obj\Debug\net8.0-windows\BeachBikeRental.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\BeachBikeRental\obj\Debug\net8.0-windows\BeachBikeRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\BeachBikeRental\obj\Debug\net8.0-windows\BeachBikeRental.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\BeachBikeRental\obj\Debug\net8.0-windows\BeachBikeRental.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\BeachBikeRental\obj\Debug\net8.0-windows\BeachBikeRental.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\BeachBikeRental\obj\Debug\net8.0-windows\BeachBikeRental.dll
+C:\Users\HELLO\Source\Repos\BeachBikeRental\obj\Debug\net8.0-windows\refint\BeachBikeRental.dll
+C:\Users\HELLO\Source\Repos\BeachBikeRental\obj\Debug\net8.0-windows\BeachBikeRental.pdb
+C:\Users\HELLO\Source\Repos\BeachBikeRental\obj\Debug\net8.0-windows\BeachBikeRental.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\BeachBikeRental\obj\Debug\net8.0-windows\ref\BeachBikeRental.dll
